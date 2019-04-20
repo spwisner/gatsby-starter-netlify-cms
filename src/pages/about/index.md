@@ -1,19 +1,32 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Program
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+LVG offers the following instructional services:
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+* English as a Second Language: instruction in spoken and written English for all levels of language learners from beginner through advanced, individualized to meet each person’s goals.
+* Basic Literacy: instruction in reading and writing for speakers of English who struggle with literacy, need to improve their literacy for personal and employment reasons, or are illiterate.
+* Family Literacy: workshops for parents and child caregivers who want to improve their skills in reading to children. FamilyRead® is a program of the Connecticut Humanities Council. LVG also provides sessions in using Imagination Library books, a program sponsored locally by the United Way of Western CT.
+* Citizenship Classes: instruction to prepare for both the civics and literacy portions of the United States Naturalization Test
+* TOEFL (Test of English as a Foreign Language): tutoring in preparation for the TOEFL exam which is required by some colleges 
+* pre-GED (General Equivalency Diploma): instruction in reading and writing to help individuals prepare to enroll in GED classes.
+* Workplace literacy: specific classes designed in conjunction with local employers to help meet the literacy needs of their employees.
+* College application mentoring: tutoring in conjunction with a local high school to help students prepare their college application essays.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Literacy Volunteers on the Green offers flexible class schedules and individualized instruction based on our students’ needs and goals. All of our students have different levels of English language skills as well as varied literacy in their own languages. We meet our students’ needs through small group instruction and one-on-one tutoring.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Our students and tutors come from towns throughout Northern Fairfield and Litchfield counties. Classes and tutoring sessions are provided on a flexible schedule in order to accommodate students’ work schedules. Students and tutors meet in a variety of public places, such as libraries, churches, schools, and restaurants in locations which are convenient for both students and tutors.
+
+### History
+
+Founded by Rita Guariglia and Anne Maitland in March of 2005, Literacy Volunteers on the Green started with 12 trained tutors and 30 students. By the beginning of 2013 we had assisted more than 500 students and trained more than 160 volunteer tutors. Our numbers continue to grow each year. Over the course of our eight year history, we have assisted more than 500 students and trained over 150 tutors.
+
+Class sizes range from one tutor to five students and are designed to meet the individual needs and goals of the students. From the beginning, Literacy Volunteers on the Green has recognized that tutors are the backbone of the organization. Volunteer tutors are trained in the use of best and current practices in methods of teaching English as a second language prior to working with students.
+
+LVG has created programs at New Milford’s John Pettibone School and Kent Center School to help non-English speaking parents better communicate with their children’s teachers. The programs have been so successful that we hope to replicate them in other interested elementary schools in the Northwest region. We offer a high school mentoring program to help students with the college application process. We also have special programs to help students prepare for the United States citizenship test and to communicate more fluently in the workplace. Through our website we offer numerous additional resources students can access at no cost.
+
+Many of our students have gone on to start successful businesses as musical instructors, restaurant owners, landscape contractors and electricians. Others have become nurses in area hospitals, day care providers, pastry chefs, college students, and even LVG tutors.
+
+In 2009, Literacy Volunteers on the Green was granted 501(c)(3) non-profit status with the Internal Revenue Service. LVG is an affiliate of ProLiteracy America and a United Way Partner Agency.
