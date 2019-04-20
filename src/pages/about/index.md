@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: About our values
-subtitle: Subtitle
+subtitle: New Subtitle
 ---
 ### Program
 
